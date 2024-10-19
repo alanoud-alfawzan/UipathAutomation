@@ -28,4 +28,4 @@ This project demonstrates how to use UiPath’s **Document Understanding** capab
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/YourRepoName.git
+   git clone [https://github.com/alanoud-alfawzan/UipathAutomation.git]
